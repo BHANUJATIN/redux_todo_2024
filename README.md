@@ -35,7 +35,7 @@ Users can add new todos to the list.
 
 ## Installation
 
-1. Clone the repository:`  git clone https://github.com/your-repo/redux-todo.git  `
+1. Clone the repository:` git clone https://github.com/BHANUJATIN/redux_todo_2024.git  `
 
 2. Install dependencies:
    `  npm install  `
