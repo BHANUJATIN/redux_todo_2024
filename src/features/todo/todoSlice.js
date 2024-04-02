@@ -1,5 +1,5 @@
 import {createSlice, nanoid } from '@reduxjs/toolkit';
-
+// only two possible state of todo
 const TodoState = {
     PENDING: 'pending',
     DONE: 'done'
